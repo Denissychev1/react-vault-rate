@@ -1,0 +1,32 @@
+.app .container {
+  width: 1000px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.button{
+  align-content: flex-start;
+}
+.calendar{
+  align-content: flex-start;
+}
+.graph{
+  align-content: flex-start;
+}
+
+.tooltip-body .value-text {
+  display: inline-block;
+  line-height: 1.5;
+  width: 30px;
+  font-size: 16px;
+}
+.top-series-value{
+  font-size: 16px;
+}
+.tooltip-header {
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #c5c5c5;
+}
